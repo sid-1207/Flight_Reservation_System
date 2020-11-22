@@ -9,6 +9,7 @@
 
 ---
 ### Team members:
+##### [Vaishnavi Shah](https://github.com/vaishnavirshah)
 ##### [Dhruvin Gandhi](https://github.com/dhruvin5)
 ##### [Siddharth Shah](https://github.com/sid-1207)
 ##### [Bhavya Mehta](https://github.com/bhavya092)
